@@ -1,0 +1,20 @@
+<Person>
+    <Student>
+        <Name type="student">Yashwanth Kumar</Name>
+        <RollNo>18b81a1259</RollNo>
+        <Branch>IT</Branch>
+        <Email>yash@cvr.in</Email>
+    </Student>
+    <Student>
+        <Name type="student">Aadesh</Name>
+        <RollNo>18b81a0101</RollNo>
+        <Branch>CIV</Branch>
+        <Email>xyz@gmail.com</Email>
+    </Student>
+    <Professor>
+        <Name type="teacher">Admin</Name>
+        <RollNo>1B1245</RollNo>
+        <Branch>IT,CSE</Branch>
+        <Email>teacher@gmail.com</Email>
+    </Professor>
+</Person>
